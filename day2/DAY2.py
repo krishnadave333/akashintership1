@@ -1,9 +1,9 @@
 #Day 2 Basic Task in Internship
 print("Hello World")
 
-a,b = "is in GEC ", "Gandhinagar, sector"
+a,b = "is in MEFGI ", "Rajkot, sector"
 c = 28
-print("Nitin "+a+b,c)
+print("krishna "+a+b,c)
 print(type(a),type(b),type(c))
 '''Type of
             Variable'''
@@ -11,7 +11,7 @@ a = 1 + 2j
 print("a =", a, "is of ", type(a))
 print("Is \"a\" Complex number ? ",isinstance(a, complex))
 #String
-name = "Nitin Ravat "
+name = "krishna Dave "
 print(name[5])       # letter printing
 print(name[:7])      # Start (By Default) : END
 print(name[8:])      # Start : END (By Default)
