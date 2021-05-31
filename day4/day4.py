@@ -1,7 +1,7 @@
 #Day 4 in internship in python Django
 def myFunction():
-    name = "Nitin Ravat"
-    contact = 9998930378
+    name = "krishna Dave"
+    contact = 7046986254
     return(name,contact)
 
 name,contact = myFunction()
@@ -37,7 +37,7 @@ def myFun(**arg):
     for i,j in arg.items():
         print(i,j)
 
-myFun(Name="Dhairya" , Surname="Shaherawala")
+myFun(Name="Dhara" , Surname="Sinroja")
 
 print("")
 def fun():
