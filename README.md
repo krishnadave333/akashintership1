@@ -1,2 +1,2 @@
 # akashintership1
-![1st pic](https://user-images.githubusercontent.com/84893135/121345309-892fc600-c8d9-11eb-8e1d-4341eb26371c.jpeg)
+![2nd pic](https://user-images.githubusercontent.com/84893135/121345669-fe9b9680-c8d9-11eb-99c7-7d6ff5e814e5.jpeg)
